@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Faster Minecarts",
+    "description": "Doubles the speed of minecarts!",
+    "uuid": "8b288776-a9dd-4ffd-8b74-8eb33cc84338",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 130]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "ae52ebe0-6123-48d5-8356-f9f4aba5683b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
